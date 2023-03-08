@@ -1,0 +1,29 @@
+.companyHeader{
+    padding: 8px;
+    margin: 8px;
+    font-size: 32px;
+    color: blue;
+    text-align: center;
+}
+.navSec{
+    /* border: 3px dotted black; */
+    border-top: 3px solid black
+}
+.navbar{
+    margin: 7px;   
+    
+    
+}
+
+.navList{
+    display: flex;
+    list-style: none;
+    
+}
+.navList li {
+    padding: 5px;
+    margin: 2px;
+    border-width: 3px;
+    border-style: groove;
+
+}
