@@ -1,13 +1,22 @@
+body{
+    background-image: url(../images/journaling.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
 .companyHeader{
     padding: 8px;
     margin: 8px;
-    font-size: 32px;
+    font-size: 38px;
     color: blue;
     text-align: center;
+    /* background-image: url(../images/therapy.jpg); */
+    background-size: contain;
 }
 .navSec{
     /* border: 3px dotted black; */
-    border-top: 3px solid black
+    border-top: 3px solid black;
+    
 }
 .navbar{
     margin: 7px;   
@@ -16,9 +25,10 @@
 }
 
 .navList{
+    color: whitesmoke;
     display: flex;
     list-style: none;
-    
+
 }
 .navList li {
     padding: 5px;

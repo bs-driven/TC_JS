@@ -1,0 +1,32 @@
+.company_news{
+    padding: 9px;
+    border-top: 5px dashed black;
+    
+
+}
+.companyH1{
+    text-align: center;
+    padding: 12px;
+    color: crimson;
+    font-size: 35px;
+}
+.company_news p{
+    font-size: 21px;
+    text-indent: 15px;
+    color: white
+}
+.today_events{
+    text-align: center;
+    font-size: 30px;
+    color: blue;
+}
+
+.todayShedule{
+    padding: 8px;
+    margin: 8px;
+}
+.scheduledEvents{
+    margin: 7px;
+    padding: 5px;
+    border: 3px solid black;
+}
