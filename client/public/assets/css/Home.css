@@ -13,7 +13,9 @@
 .company_news p{
     font-size: 21px;
     text-indent: 15px;
-    color: white
+    color: white;
+    text-decoration: underline;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .today_events{
     text-align: center;
