@@ -1,37 +1,34 @@
 body{
-    background-image: url(../images/journaling.jpg);
-    background-repeat: no-repeat;
-    background-size:cover;
     
 }
+/* this is the company title */
 .companyHeader{
-    padding: 8px;
-    margin: 8px;
-    font-size: 38px;
-    color: blue;
+    padding: 15px;
+    margin: 15px;
+    font-size: 50px;
+    color: black;
     text-align: center;
-    /* background-image: url(../images/therapy.jpg); */
-    background-size: contain;
 }
+/* this is the navbar area */
 .navSec{
-    /* border: 3px dotted black; */
-    border-top: 3px solid black;
+    padding: 3px;
+    
+
     
 }
+
 .navbar{
-    margin: 7px;   
-    
+   padding:2%;    
     
 }
 
 .navList{
-    color: whitesmoke;
     display: flex;
     list-style: none;
 
 }
 .navList li {
-    padding: 5px;
+    padding: 2px;
     margin: 2px;
     border-width: 3px;
     border-style: groove;
